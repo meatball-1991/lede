@@ -13,6 +13,8 @@ on:
   push:
     branches: 
       - master
+    paths:
+      - '.github/workflows/ac58u.yml'
   release:
     types: [published]
 
