@@ -5,7 +5,7 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
-name: phicomm-k3-CI
+name: newifi3-CI
 
 on:
   schedule:
