@@ -161,6 +161,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-v2ray-server=y
           CONFIG_PACKAGE_luci-app-zerotier=y          
           CONFIG_PACKAGE_luci-app-passwall=y
+          CONFIG_PACKAGE_luci-app-uhttpd=y
           EOF
 
           # LuCI主题:
