@@ -5,7 +5,7 @@
 #
 # Copyright (C) 2020 KFERMercer
 #
-name: r2s-CI
+name: r2s-syncdial-CI
 
 on:
   schedule:
