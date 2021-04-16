@@ -14,7 +14,7 @@ on:
     branches: 
       - master
     paths:
-      - '.github/workflows/r2s.yml'
+      - '.github/workflows/r2s-syncdial.yml'
   release:
     types: [published]
 
